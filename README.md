@@ -1,6 +1,5 @@
 # 💫 About Me:
 ### 👋 I'm Adailton Santos
-- 🔭 My GitHub is not so alive as it should be because my daily commits happen on my corporative account!
 - 🌱 I like to bring personal projects here, and it goes since stuff I am studying because of my work or just for hobby.
 
 ## 🌐 Socials:
